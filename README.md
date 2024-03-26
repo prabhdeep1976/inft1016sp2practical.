@@ -1,1 +1,1 @@
-# inft1016sp2practical.
+# inft1016sp2practical
